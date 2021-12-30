@@ -1,5 +1,8 @@
 # windows 配置 Linux like terminal
 > Termianl 颜值是第一生产力
+
+![final](./imgs/final.png)
+
 ## 1 安装 Git Bash On Windows 和 Windows Terminal
 1. 在 windwos 上下载安装 [Git](https://git-scm.com/downloads)
 2. 从 windows store 安装 windows terminal
