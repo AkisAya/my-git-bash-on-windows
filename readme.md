@@ -36,7 +36,7 @@ oh my zsh 能让 shell 变得更加好看与智能。通过添加各种 plugin�
 ### 3.1 安装 zsh
 安装 oh my zsh 前需要将 zsh 安装到 git bash 的环境中，由于 git bash 没有包管理器，所以需要手动下载。本仓库内置了一份 zsh5.8 的 tar 包，可以手动下载后将文件加压到 Git 的跟目录下。也可以在仓库的根目录下用 git bash 执行如下命令
 ```bash
-cp -r tools/zsh/ /
+cp -r tools/zsh/* /
 ```
 为了启用 zsh，在 .bashrc 中添加
 ```shell
